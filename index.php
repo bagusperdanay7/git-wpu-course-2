@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello World <?="dengan PHP" ?></h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium tenetur ipsam beatae accusantium inventore adipisci!</p>
 </body>
 </html>
