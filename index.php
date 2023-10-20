@@ -8,5 +8,9 @@
 <body>
     <h1>Hello World <?="dengan PHP" ?></h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium tenetur ipsam beatae accusantium inventore adipisci!</p>
+    <ul>
+        <li>List 1</li>
+        <li>List 2</li>
+    </ul>
 </body>
 </html>
